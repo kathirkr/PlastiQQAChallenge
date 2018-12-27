@@ -1,0 +1,12 @@
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\PlastiQQAChallenge.exe.config
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\PlastiQQAChallenge.exe
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\PlastiQQAChallenge.pdb
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\WebDriver.dll
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\WebDriver.Support.dll
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\WebDriver.xml
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\bin\Debug\WebDriver.Support.xml
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\obj\Debug\PlastiQQAChallenge.csprojAssemblyReference.cache
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\obj\Debug\PlastiQQAChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\obj\Debug\PlastiQQAChallenge.csproj.CopyComplete
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\obj\Debug\PlastiQQAChallenge.exe
+C:\Users\kathirkr\Source\Repos\PlastiQQAChallenge\PlastiQQAChallenge\obj\Debug\PlastiQQAChallenge.pdb
